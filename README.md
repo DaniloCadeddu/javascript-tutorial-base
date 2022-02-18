@@ -1,11 +1,13 @@
 Creare una cartella per ogni esercizio nominata "ExerciseX" dove X è il numero dell'esercizio.
+I primi due esercizi sono per fare pratica con la sintassi, dal terzo in poi si passa all'integrazione con il DOM
 
 Letture online:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
 https://www.w3schools.com/js/default.asp 
+
 https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
 
-I primi due esercizi sono per fare pratica con la sintassi, dal terzo in poi si passa all'integrazione con il DOM
 ---------------------------------------------------------------------------------------------------------------------------------
 
 1. Dato un array di interi *nums* e un numero intero *target*, ritorna gli INDICI dei due numeri che sommati tra loro equivalgono
@@ -50,7 +52,7 @@ Separare i file css, html e js. Non preocupparsi di distruggere o nascondere ele
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-5. Creare un tag <img> con un immagine a piacere che cambia (con un'altra immagine) al passare del mouse sopra di essa.
+5. Creare un tag img con un immagine a piacere che cambia (con un'altra immagine) al passare del mouse sopra di essa.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
